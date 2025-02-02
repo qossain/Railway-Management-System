@@ -1,0 +1,3 @@
+Name: Qossain, Rating: 2, Complaint: The staff is not too good.
+Name: Haisam, Rating: 4, Complaint: The department is good.
+Name: Uzair, Rating: 4, Complaint: The staff is not friendly.

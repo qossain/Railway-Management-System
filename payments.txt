@@ -1,0 +1,4 @@
+Train: Tezgam, Timing: 8:00 am, Name: Qossain Awais, Card Number: 1234567890987654, Class: 1, Payment: Online
+Train: Awami Express, Timing: 8:00 am, Name: Qossain, Card Number: 1234567890987654, Class: 1, Payment: Online
+Train: Awami Express, Timing: 8:00 am, Class: 1, Payment: Cash
+Train: Shalimar, Timing: 8:00 am, Name: Uzair, Card Number: 1234567890987654, Class: 1, Payment: Online

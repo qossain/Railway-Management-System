@@ -1,0 +1,4 @@
+, , 0, 0, 0, 0, 
+Awami Express,       8:00 am, 8, 12, 100, 150, 3
+Shalimar,   8:00 am, 9, 12, 100, 130, 2
+Allama Iqbal,  6:00 am, 10, 13, 56, 89, 1
